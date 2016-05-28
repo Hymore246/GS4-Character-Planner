@@ -356,6 +356,6 @@ def bordercolors(root, colorName):
         darkRGB.append(darkValue)
 
     return (
-        '#%04x%04x%04x' % (lightRGB[0], lightRGB[1], lightRGB[2]),
-        '#%04x%04x%04x' % (darkRGB[0], darkRGB[1], darkRGB[2])
+        '#%04i%04i%04i' % (lightRGB[0], lightRGB[1], lightRGB[2]),
+        '#%04i%04i%04i' % (darkRGB[0], darkRGB[1], darkRGB[2])
     )
