@@ -1,3 +1,6 @@
   # Thanks to brettlyons for his help with this.
   __pycache__
 +GS4_Planner.db
+
+#EDITOR FILES
+.editorconfig

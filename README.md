@@ -1,5 +1,9 @@
 # GS4-Character-Planner
 A character planner for the MUD, Gemstone IV
+##
+Original credit goes to Hymore246. He hasn't updated in a while so I decided to fork it and update it.
+
+Original Repo: https://github.com/Hymore246/GS4-Character-Planner
 
 ## OSX Instructions
 1. Intall [homebrew](http://brew.sh/)
